@@ -9,7 +9,7 @@ The examples given in this project are made with the Jupyter-Notebook of the Ana
  Once your done with installing the Gurobi solver visit  https://www.anaconda.com/distribution/ and download the Anaconda distribution for your system (this project is based on Python 3.7).
 
 ## Author
- * j-stalder(https://github.com/j-stalder)
+ * [j-stalder](https://github.com/j-stalder)
 
 ## License
  This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
