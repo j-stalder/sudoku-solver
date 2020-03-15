@@ -3,7 +3,7 @@ This short Jupyter Notebook contains a Sudoku-solver using a simple backtracking
 Backtracking is a general algorithm for finding solutions to some computational problems, notably constraint satisfaction problems. It abandons a candidate ("backtracks") as soon as it determines that the candidate cannot possibly be completed to a valid solution.
 
 ## Getting started and prerequisites
-The examples given in this course are made with the Jupyter-Notebook of the Anaconda Distribution using Python 3.x.x. In particular the [numpy](https://numpy.org/) package is used in order to solve the puzzle.
+The examples given in this course are made with the Jupyter-Notebook of the Anaconda Distribution using Python 3.x.x. In particular only the [numpy](https://numpy.org/) package is used in order to solve the puzzle.
 
 ### Installation of Anaconda (Jupyter Notebook)
  Once your done with installing the Gurobi solver visit  https://www.anaconda.com/distribution/ and download the Anaconda distribution for your system (this course is based on Python 3.7).
